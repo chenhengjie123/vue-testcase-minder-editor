@@ -46,8 +46,8 @@ npm --registry=https://registry.npm.taobao.org install vue-testcase-minder-edito
 在 main.js 中
 
 ``` javascript
-import '@lizhife/vue-testcase-minder-editor/lib/VueTestcaseMinderEditor.css'
-import VueTestcaseMinderEditor from '@lizhife/vue-testcase-minder-editor'
+import 'vue-testcase-minder-editor/lib/VueTestcaseMinderEditor.css'
+import VueTestcaseMinderEditor from 'vue-testcase-minder-editor'
 
 Vue.use(VueTestcaseMinderEditor)
 ```
