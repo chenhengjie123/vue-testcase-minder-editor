@@ -14,7 +14,7 @@
 
 ## 效果
 
-![脑图](https://gitlab.lizhi.fm/qa_mega/vue-testcase-minder-editor/-/raw/master/docs/preview.png)
+![脑图](https://github.com/chenhengjie123/vue-testcase-minder-editor/blob/master/docs/preview.png)
 
 也可以本地跑起来体验，克隆完代码后，在根目录下：
 
