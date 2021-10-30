@@ -40,7 +40,7 @@ npm run lib && npm run serve
 安装本组件
 
 ``` bash
-npm install vue-testcase-minder-editor --registry=http://npm.lizhifm.com
+npm --registry=https://registry.npm.taobao.org install vue-testcase-minder-editor
 ```
 
 在 main.js 中
