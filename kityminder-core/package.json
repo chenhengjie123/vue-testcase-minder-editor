@@ -1,0 +1,61 @@
+{
+  "name": "kityminder-core",
+  "title": "Kity Minder Core",
+  "description": "KityMinder Core Implement",
+  "version": "1.4.50",
+  "homepage": "https://github.com/fex-team/kityminder-core",
+  "author": {
+    "name": "Baidu FEX",
+    "url": "http://fex.baidu.com"
+  },
+  "main": "dist/kityminder.core.js",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fex-team/kityminder-core.git"
+  },
+  "keywords": [
+    "kityminder",
+    "kity",
+    "minder",
+    "svg",
+    "graphic",
+    "javascript"
+  ],
+  "scripts": {
+    "dev": "grunt dev",
+    "build": "grunt build"
+  },
+  "bugs": {
+    "url": "https://github.com/fex-team/kityminder-core/issues"
+  },
+  "licenses": [
+    {
+      "type": "BSD-3-Clause",
+      "url": "https://github.com/fex-team/kityminder-core/blob/dev/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "json-diff": "^0.5.2",
+    "kity": "^2.0.4",
+    "seajs": "^2.3.0"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.1.5",
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-copy": "~0.8.2",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-module-dependence": "~0.2.1",
+    "grunt-replace": "~0.8.0",
+    "uglify-js": "^2.8.29"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
