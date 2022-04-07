@@ -1,18 +1,3 @@
-## 0.3.10 (2022-04-07)
-
-
-### Bug Fixes
-
-* 修复部分项目引入后提示 Unknown browser query dead 的报错 ([d05b9cd](https://github.com/chenhengjie123/vue-testcase-minder-editor/commit/d05b9cd579211952cd7ef5f731b4f64118101184))
-* 修复默认数据缺少id值,导致搜索功能出错不可用的问题 ([affde62](https://github.com/chenhengjie123/vue-testcase-minder-editor/commit/affde62733eec810bf03775be5daa61153313c78))
-
-
-### Features
-
-* 首次提交全部源码 ([d882a17](https://github.com/chenhengjie123/vue-testcase-minder-editor/commit/d882a17ae1936693e371ec3cb419a9d1c4e0ffaa))
-
-
-
 ## [0.3.9](https://gitlab.lizhi.fm/qa_mega/vue-testcase-minder-editor/compare/v0.3.8...v0.3.9) (2021-08-19)
 
 
