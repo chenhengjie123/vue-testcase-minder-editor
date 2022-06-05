@@ -1,3 +1,13 @@
+## [0.3.13](https://github.com/chenhengjie123/vue-testcase-minder-editor/compare/v0.3.12...v0.3.13) (2022-06-05)
+
+
+### Bug Fixes
+
+* 修复 vue-cli 2.x 项目导入时有 Unexpected token 的问题 ([808b1ab](https://github.com/chenhengjie123/vue-testcase-minder-editor/commit/808b1ab0e5f42169afd29851adaa35007436fe4b))
+* 修复由于 packages 目录中没有引入组件,导致报错找不到组件的问题 ([e0f2f55](https://github.com/chenhengjie123/vue-testcase-minder-editor/commit/e0f2f5544ed862eadd0195b0f3a3fba1bb19647d))
+
+
+
 ## 0.3.12 (2022-04-08)
 
 
