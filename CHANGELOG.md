@@ -1,3 +1,12 @@
+## [0.3.14](https://github.com/chenhengjie123/vue-testcase-minder-editor/compare/v0.3.13...v0.3.14) (2022-06-05)
+
+
+### Bug Fixes
+
+* 0.3.13 发布时遗漏更新编译后文件，因此重新编译后发布 0.3.14 ([0dd9e6e](https://github.com/chenhengjie123/vue-testcase-minder-editor/commit/0dd9e6e108211064e8ad2da19a9f5376fedd3213))
+
+
+
 ## [0.3.13](https://github.com/chenhengjie123/vue-testcase-minder-editor/compare/v0.3.12...v0.3.13) (2022-06-05)
 
 
